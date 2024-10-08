@@ -43,8 +43,6 @@ Then, open `http://localhost:8000` in your browser to view the site.
 - **JavaScript**: For form validation and interactive elements.
 - **Git & GitHub**: For version control and project hosting.
 - **Visual Studio Code**: As the development environment with useful extensions such as Live Server.
-- **FontAwesome**: For icons in the website.
-- **Google Fonts**: For integrating custom fonts.
 
 ## **Project Log**
 
